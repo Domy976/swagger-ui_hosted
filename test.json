@@ -1,8 +1,8 @@
 {
-    "url": "http://104.244.77.247:9000/test.yaml",
+    "url": "https://raw.githubusercontent.com/Domy976/swagger-ui_hosted/main/test.yaml",
     "urls": [
         {
-            "url": "http://104.244.77.247:9000/test.yaml",
+            "url": "https://raw.githubusercontent.com/Domy976/swagger-ui_hosted/main/test.yaml",
             "name": "Foo"
         }
     ]
